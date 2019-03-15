@@ -1,2 +1,0 @@
-# hackerNews
-Created with CodeSandbox
